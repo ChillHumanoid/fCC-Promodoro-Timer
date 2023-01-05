@@ -12,7 +12,7 @@
 
 ## :camera: Screenshot:
 ------
-![Project Preview]()
+![Project Preview](https://github.com/ChillHumanoid/fCC-Promodoro-Timer/blob/main/project-preview.png)
 
 ## :computer: Author:
 + Coded with :blue_heart: by [Kirsten Canfield](https://github.com/ChillHumanoid)
