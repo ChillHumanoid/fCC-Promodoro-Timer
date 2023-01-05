@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Oswald&display=swap');
+
+body {
+  background-color: #1e272e;
+  color: #c23616;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+
+#time-left {
+  font-size: 4em;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+#timer-label {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2rem;
+}
+
+.actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-rows: 1fr;
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 25px;
+  font-family: 'IBM Plex Mono', monospace;
+  padding: 10px 200px;
+}
+
+#reset {
+  font-family: 'Oswald', sans-serif;
+  cursor: pointer;
+}
+
+#section {
+  margin: 10px auto;
+}
+
+.settings {
+  padding: 20px;
+}
+
+.settings-label {
+  margin-top: 2px;
+}
+
+#start_stop {
+  cursor: pointer;
+}
+
+.button {
+  font-size: 30px;
+  margin: 10px;
+}
