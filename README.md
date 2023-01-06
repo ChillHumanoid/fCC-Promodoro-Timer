@@ -3,11 +3,11 @@
 + [Live Version](https://codepen.io/chillhumanoid/full/MWBgjJY)
 + [Link to fCC Project Page](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
 
-## :wrench: Languages and Tools:
+## :wrench: Languages, Libraries, and Tools:
 ------
 + HTML5
-+ CSS3
-+ JavaScript
++ CSS3, FontAwesome
++ JavaScript, React, ReactDOM
 + Visual Studio Code
 
 ## :camera: Screenshot:
